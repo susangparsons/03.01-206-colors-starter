@@ -11,7 +11,7 @@ html, body {
 
 #wrapper {
   width: 100%;
-  max-width: 960px;
+  max-width: 1400px;
   margin: auto;
 }
 
@@ -58,7 +58,7 @@ footer {
 /*---------- TABLET ----------*/
 /* Change the background colors below */
 
-@media (min-width: 641px) {
+@media (min-width: 768px) {
   header {
     background-color: #000000;
   }
@@ -86,7 +86,7 @@ footer {
 
 
 /*---------- Desktops ----------*/
-@media (min-width: 1025px) {
+@media (min-width: 1200px) {
   header {
     background-color: #cccccc;
   }
